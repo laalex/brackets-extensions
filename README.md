@@ -1,1 +1,1 @@
-Checkout this repository into /home/<username>/.config/Brackets in order to get the extensions loaded.
+Checkout this repository into /home/your_username/.config/Brackets in order to get the extensions loaded.
