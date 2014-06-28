@@ -28,10 +28,12 @@
     "brackets-git.terminalCommandArgs": null,
     "brackets-git.debugMode": false,
     "themes-brackets-extension.themes": [
-        "aquaman"
+        "monokai"
     ],
     "styleActiveLine": false,
-    "insya-module-highlighter.enabled": true,
+    "insya-module-highlighter.enabled": false,
     "linting.collapsed": true,
-    "brackets-darker.theme": "base16-default-dark"
+    "brackets-darker.theme": "base16-monokai-dark",
+    "themes-brackets-extension.fontSize": "12px",
+    "closeBrackets": true
 }

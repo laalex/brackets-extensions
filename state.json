@@ -21,12 +21,12 @@
                         "selections": [
                             {
                                 "start": {
-                                    "line": 43,
-                                    "ch": 9
+                                    "line": 25,
+                                    "ch": 48
                                 },
                                 "end": {
-                                    "line": 43,
-                                    "ch": 9
+                                    "line": 25,
+                                    "ch": 48
                                 },
                                 "reversed": false,
                                 "primary": true
@@ -43,7 +43,7 @@
     },
     "afterFirstLaunch": "true",
     "currentSort": "view.sortWorkingSetByAdded",
-    "lastInfoURLFetchTime": 1403970523920,
+    "lastInfoURLFetchTime": 1403971524242,
     "updateInfo": [
         {
             "buildNumber": 13418,
@@ -956,7 +956,7 @@
         }
     ],
     "extensionUpdateInfo": [],
-    "lastExtensionRegistryCheckTime": 1403970694396,
+    "lastExtensionRegistryCheckTime": 1403971540774,
     "brackets-git.lastVersion": "0.13.21",
     "fontSizeAdjustment": 0,
     "fontSizeStyle": "12px",
@@ -967,5 +967,7 @@
     ],
     "sidebar": {
         "visible": true
-    }
+    },
+    "automaticSort": true,
+    "code-folding.folds": {}
 }
