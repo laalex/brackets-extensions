@@ -1,0 +1,1 @@
+Checkout this repository into /home/<username>/.config/Brackets in order to get the extensions loaded.

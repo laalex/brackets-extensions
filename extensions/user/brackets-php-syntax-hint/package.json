@@ -1,0 +1,12 @@
+{
+    "name": "brackets-php-syntax-hint",
+    "title": "PHP Syntax Hint",
+    "description": "PHP Syntax Hint is a plugin for Brackets will help you alot in writing php SYNTAX, MYSQL Queries within Brackets software.",
+    "homepage": "http://www.oslibrary.in/brackets/",
+    "version": "1.0.0",
+    "author": "Ritesh Kumar Prakash <riteshbksc@gmail.com> (https://www.oslibrary.in/)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.1.0"
+    }
+}
